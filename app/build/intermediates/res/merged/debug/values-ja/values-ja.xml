@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"ホームへ移動"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s、%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s、%2$s、%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"上へ移動"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"その他のオプション"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完了"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"すべて表示"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"アプリの選択"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"OFF"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ON"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"検索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"検索キーワードを削除"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"検索キーワード"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"検索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"検索キーワードを送信"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"音声検索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"共有"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%sと共有"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"折りたたむ"</string>
+    <string name="about_input_ip">接続したいデバイスでストリームを開始をクリックして、IP を入力してください。</string>
+    <string name="about_nfc_description">Enable NFC を有効にします。 次に、接続したいデバイスでストリームに接続をクリックして、2 つのデバイスにタッチしてください。</string>
+    <string name="about_qr_code"/>
+    <string name="about_type_ip">接続したいデバイスでストリームを表示をクリックして、上の IP を入力してください。</string>
+    <string name="app_name">Endoscope</string>
+    <string name="button_text">セット</string>
+    <string name="camera_not_found">カメラが見つかりません。</string>
+    <string name="cancel">キャンセル</string>
+    <string name="codec_dialog_title">ビデオのコーデックをセット</string>
+    <string name="connect">接続</string>
+    <string name="connect_stream">ストリームに接続</string>
+    <string name="done">完了</string>
+    <string name="enable_sound_stream">オーディオストリームを有効にする</string>
+    <string name="enabled">オン</string>
+    <string name="header_enable_wifi">Wi-Fi を有効にする</string>
+    <string name="header_link_via">ストリームにリンクします...</string>
+    <string name="how_to_use">使用方法</string>
+    <string name="ht_link_via">デバイスのリンクは異なる方法で可能です。</string>
+    <string name="ht_made_by_desc">インストールありがとうございます! \n \n連絡先 メール: \n PSZEM.SZYM@GMAIL.COM</string>
+    <string name="ht_welcome_desc">Endoscope は Android デバイス間でライブビデオをストリームします!</string>
+    <string name="ht_wi_fi_enabled">お使いのデバイスで WiFi を有効にして、同じネットワークに接続していることを確認してください。</string>
+    <string name="ip">IP</string>
+    <string name="ip_default">255.255.255.255</string>
+    <string name="link_nfc">NFC リンク</string>
+    <string name="link_stream_via_nfc">NFC 経由でストリームをリンク</string>
+    <string name="link_to_stream_via_nfc">NFC 経由でストリームをリンク</string>
+    <string name="made_by_header">Endoscope 作者</string>
+    <string name="nfc">NFC</string>
+    <string name="nfc_reader_description">接続したいデバイスでストリームを開始をクリックして、NFC を選択し、2 つのデバイスにタッチしてください。 NFC が有効になっていることを確認してください。 </string>
+    <string name="off">オフ</string>
+    <string name="or">または</string>
+    <string name="package_name">pl.hypeapp.vrstream</string>
+    <string name="port">ポート</string>
+    <string name="port_changed">ポートを変更しました!</string>
+    <string name="port_dialog_title">ポートをセット</string>
+    <string name="qr_code">QR コード</string>
+    <string name="qr_code_not_found">QR コードが見つかりません。</string>
+    <string name="read_nfc">NFC を読む</string>
+    <string name="resolution">解像度</string>
+    <string name="resolution_dialog_title">ビデオの解像度をセット</string>
+    <string name="scan_qr_code">QR コードをスキャン</string>
+    <string name="scan_qr_code_capital">QR コードをスキャン</string>
+    <string name="scan_qr_code_description">接続したいデバイスでストリームに接続をクリックして、QR コードをスキャンしてください。</string>
+    <string name="scanner_qr_code">接続したいデバイスでストリームを開始をクリックして、QR コードをスキャンしてください。</string>
+    <string name="set_port">ポートをセット</string>
+    <string name="set_video_encoder_title">ビデオエンコーダーをセット</string>
+    <string name="set_video_resolution">ビデオの解像度をセット</string>
+    <string name="settings">設定</string>
+    <string name="settings_uppercase">設定</string>
+    <string name="skip">スキップ</string>
+    <string name="start_stream">ストリームを開始</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stream_audio">ストリームオーディオ</string>
+    <string name="stream_sound_dialog_title">ストリームサウンドを有効にする</string>
+    <string name="type_ip">IP を入力</string>
+    <string name="type_ip_address">IP アドレスを入力</string>
+    <string name="video_encoder">ビデオエンコーダー</string>
+    <string name="welcome">ようこそ!</string>
+    <string name="wi_fi_disabled">WiFi は無効です..</string>
+    <string name="write_ip_addres">IP アドレスを書く</string>
+</resources>

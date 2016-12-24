@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array translatable="false" name="resolutions">
+        <item name="0">1</item>
+        <item name="1">2</item>
+        <item name="2">3</item>
+        <item name="3">4</item>
+        <item name="4">5</item>
+        <item name="5">6</item>
+        <item name="6">7</item>
+        <item name="7">8</item>
+        <item name="8">9</item>
+    </string-array>
+
+
+    <integer-array translatable="false" name="resolution_width">
+        <item>800</item>
+        <item>640</item>
+        <item>480</item>
+        <item>320</item>
+    </integer-array>
+
+    <integer-array translatable="false" name="resolution_height">
+        <item>480</item>
+        <item>480</item>
+        <item>320</item>
+        <item>240</item>
+    </integer-array>
+
+
+    <string-array translatable="false" name="stream_audio_bool">
+        <item name="0">ON</item>
+        <item name="1">OFF</item>
+    </string-array>
+
+    <string-array translatable="false" name="video_encoders">
+        <item name="0">KiloGram</item>
+        <item name="1">Gram</item>
+    </string-array>
+
+</resources>

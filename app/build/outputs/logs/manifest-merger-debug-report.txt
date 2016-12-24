@@ -1,0 +1,192 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:2:1-116:12
+	package
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml
+		INJECTED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml
+		INJECTED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml
+		INJECTED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:5:5-7:35
+	android:required
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:7:9-32
+	android:name
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:6:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:8:5-10:35
+	android:required
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:10:9-32
+	android:name
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:9:9-57
+uses-feature#android.hardware.usb.host
+ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:11:5-13:35
+	android:required
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:13:9-32
+	android:name
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:12:9-49
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:15:22-73
+uses-permission#android.permission.INTERNET
+ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:16:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:17:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:18:5-71
+	android:name
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:18:22-68
+uses-permission#android.permission.CAMERA
+ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:19:5-65
+	android:name
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:19:22-62
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:20:5-68
+	android:name
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:20:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:21:5-79
+	android:name
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.NFC
+ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:23:5-62
+	android:name
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:23:22-59
+uses-feature#android.hardware.nfc
+ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:24:5-81
+	android:required
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:24:55-79
+	android:name
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:24:19-54
+application
+ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:26:5-114:19
+MERGED from [hanks.xyz:smallbang-library:0.1.2] /home/siddharth/StudioProjects/Endoscope/app/build/intermediates/exploded-aar/hanks.xyz/smallbang-library/0.1.2/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:24.1.1] /home/siddharth/StudioProjects/Endoscope/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] /home/siddharth/StudioProjects/Endoscope/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] /home/siddharth/StudioProjects/Endoscope/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.1.1] /home/siddharth/StudioProjects/Endoscope/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:29:9-41
+	android:supportsRtl
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:30:9-35
+	android:allowBackup
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:27:9-35
+	android:icon
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:28:9-43
+	android:theme
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:31:9-41
+activity#in.iosense.weightx.MainMenuActivity
+ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:32:9-41:20
+	android:theme
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:33:13-63
+intent-filter#android.hardware.usb.action.USB_DEVICE_ATTACHED+android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:35:13-40:29
+action#android.intent.action.MAIN
+ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:36:25-66
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:37:17-90
+	android:name
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:37:25-87
+category#android.intent.category.DEFAULT
+ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:39:17-76
+	android:name
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:39:27-73
+activity#in.iosense.weightx.SplashScreenActivity
+ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:42:9-50:20
+	android:theme
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:44:13-45
+	android:name
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:43:13-67
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:45:13-49:29
+category#android.intent.category.LAUNCHER
+ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:48:17-77
+	android:name
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:48:27-74
+activity#in.iosense.weightx.ConnectToStreamActivity
+ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:51:9-67:20
+	android:launchMode
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:54:13-44
+	android:theme
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:53:13-45
+	android:name
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:52:13-70
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:55:13-59:29
+intent-filter#android.intent.category.DEFAULT+android.nfc.action.NDEF_DISCOVERED
+ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:61:13-65:29
+action#android.nfc.action.NDEF_DISCOVERED
+ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:62:17-77
+	android:name
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:62:25-74
+data
+ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:64:17-55
+	android:mimeType
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:64:23-52
+activity#in.iosense.weightx.StartStreamActivity
+ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:68:9-79:20
+	android:launchMode
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:71:13-48
+	android:theme
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:70:13-45
+	android:name
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:69:13-66
+activity#in.iosense.weightx.SettingsActivity
+ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:80:9-88:20
+	android:theme
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:82:13-45
+	android:name
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:81:13-63
+activity#in.iosense.weightx.HowToUseActivity
+ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:89:9-97:20
+	android:theme
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:91:9-41
+	android:name
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:90:9-59
+activity#in.iosense.weightx.PlayStreamActivity
+ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:98:9-107:20
+	android:configChanges
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:101:13-59
+	android:theme
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:100:13-45
+	android:name
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:99:13-65
+service#in.iosense.weightx.UsbService
+ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:109:9-112:19
+	android:enabled
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:111:13-35
+	android:name
+		ADDED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml:110:13-57
+uses-sdk
+INJECTED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] /home/siddharth/StudioProjects/Endoscope/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/AndroidManifest.xml:18:5-42
+MERGED from [com.github.felHR85:UsbSerial:4.5] /home/siddharth/StudioProjects/Endoscope/app/build/intermediates/exploded-aar/com.github.felHR85/UsbSerial/4.5/AndroidManifest.xml:6:5-8:41
+MERGED from [hanks.xyz:smallbang-library:0.1.2] /home/siddharth/StudioProjects/Endoscope/app/build/intermediates/exploded-aar/hanks.xyz/smallbang-library/0.1.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:24.1.1] /home/siddharth/StudioProjects/Endoscope/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] /home/siddharth/StudioProjects/Endoscope/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.1.1] /home/siddharth/StudioProjects/Endoscope/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.1.1] /home/siddharth/StudioProjects/Endoscope/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.dlazaro66.qrcodereaderview:qrcodereaderview:2.0.0] /home/siddharth/StudioProjects/Endoscope/app/build/intermediates/exploded-aar/com.dlazaro66.qrcodereaderview/qrcodereaderview/2.0.0/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.1.1] /home/siddharth/StudioProjects/Endoscope/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml
+		INJECTED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml
+		INJECTED from /home/siddharth/StudioProjects/Endoscope/app/src/main/AndroidManifest.xml

@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/siddharth/StudioProjects/Endoscope/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_memory_white_24dp.png",
+        "source": "/home/siddharth/StudioProjects/Endoscope/app/src/main/res/drawable-xhdpi/ic_memory_white_24dp.png"
+    },
+    {
+        "merged": "/home/siddharth/StudioProjects/Endoscope/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/siddharth/StudioProjects/Endoscope/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/siddharth/StudioProjects/Endoscope/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_zero.png",
+        "source": "/home/siddharth/StudioProjects/Endoscope/app/src/main/res/drawable-xhdpi/ic_action_zero.png"
+    },
+    {
+        "merged": "/home/siddharth/StudioProjects/Endoscope/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_wifi_white_48dp.png",
+        "source": "/home/siddharth/StudioProjects/Endoscope/app/src/main/res/drawable-xhdpi/ic_wifi_white_48dp.png"
+    },
+    {
+        "merged": "/home/siddharth/StudioProjects/Endoscope/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_signal_wifi_off_black_24dp.png",
+        "source": "/home/siddharth/StudioProjects/Endoscope/app/src/main/res/drawable-xhdpi/ic_signal_wifi_off_black_24dp.png"
+    },
+    {
+        "merged": "/home/siddharth/StudioProjects/Endoscope/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_linked_camera_white_24dp.png",
+        "source": "/home/siddharth/StudioProjects/Endoscope/app/src/main/res/drawable-xhdpi/ic_linked_camera_white_24dp.png"
+    },
+    {
+        "merged": "/home/siddharth/StudioProjects/Endoscope/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_nfc_white_24dp.png",
+        "source": "/home/siddharth/StudioProjects/Endoscope/app/src/main/res/drawable-xhdpi/ic_nfc_white_24dp.png"
+    },
+    {
+        "merged": "/home/siddharth/StudioProjects/Endoscope/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_navigate_next_white_24dp.png",
+        "source": "/home/siddharth/StudioProjects/Endoscope/app/src/main/res/drawable-xhdpi/ic_navigate_next_white_24dp.png"
+    },
+    {
+        "merged": "/home/siddharth/StudioProjects/Endoscope/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_explore_white_24dp.png",
+        "source": "/home/siddharth/StudioProjects/Endoscope/app/src/main/res/drawable-xhdpi/ic_explore_white_24dp.png"
+    },
+    {
+        "merged": "/home/siddharth/StudioProjects/Endoscope/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_settings_white_24dp.png",
+        "source": "/home/siddharth/StudioProjects/Endoscope/app/src/main/res/drawable-xhdpi/ic_settings_white_24dp.png"
+    },
+    {
+        "merged": "/home/siddharth/StudioProjects/Endoscope/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_create_white_24dp.png",
+        "source": "/home/siddharth/StudioProjects/Endoscope/app/src/main/res/drawable-xhdpi/ic_create_white_24dp.png"
+    },
+    {
+        "merged": "/home/siddharth/StudioProjects/Endoscope/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_search.png",
+        "source": "/home/siddharth/StudioProjects/Endoscope/app/src/main/res/drawable-xhdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/siddharth/StudioProjects/Endoscope/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_settings_remote_white_24dp.png",
+        "source": "/home/siddharth/StudioProjects/Endoscope/app/src/main/res/drawable-xhdpi/ic_settings_remote_white_24dp.png"
+    },
+    {
+        "merged": "/home/siddharth/StudioProjects/Endoscope/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_phonelink_ring_white_24dp.png",
+        "source": "/home/siddharth/StudioProjects/Endoscope/app/src/main/res/drawable-xhdpi/ic_phonelink_ring_white_24dp.png"
+    }
+]

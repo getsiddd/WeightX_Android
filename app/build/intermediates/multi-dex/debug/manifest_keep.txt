@@ -1,0 +1,8 @@
+-keep class in.iosense.weightx.MainMenuActivity { <init>(); }
+-keep class in.iosense.weightx.SplashScreenActivity { <init>(); }
+-keep class in.iosense.weightx.ConnectToStreamActivity { <init>(); }
+-keep class in.iosense.weightx.StartStreamActivity { <init>(); }
+-keep class in.iosense.weightx.SettingsActivity { <init>(); }
+-keep class in.iosense.weightx.HowToUseActivity { <init>(); }
+-keep class in.iosense.weightx.PlayStreamActivity { <init>(); }
+-keep class in.iosense.weightx.UsbService { <init>(); }
